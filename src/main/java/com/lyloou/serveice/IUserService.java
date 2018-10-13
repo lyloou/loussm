@@ -1,6 +1,6 @@
-package com.cn.hnust.serveice;
+package com.lyloou.serveice;
 
-import com.cn.hnust.pojo.User;
+import com.lyloou.pojo.User;
 
 public interface IUserService {
 	public User getUserById(int userId);

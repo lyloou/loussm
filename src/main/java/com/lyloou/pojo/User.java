@@ -1,4 +1,4 @@
-package com.cn.hnust.pojo;
+package com.lyloou.pojo;
 
 public class User {
     /**

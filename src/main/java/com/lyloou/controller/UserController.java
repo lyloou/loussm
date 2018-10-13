@@ -1,7 +1,7 @@
-package com.cn.hnust.controller;
+package com.lyloou.controller;
 
-import com.cn.hnust.pojo.User;
-import com.cn.hnust.serveice.IUserService;
+import com.lyloou.pojo.User;
+import com.lyloou.serveice.IUserService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;

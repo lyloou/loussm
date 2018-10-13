@@ -1,6 +1,6 @@
-package com.cn.hnust.mapping;
+package com.lyloou.mapping;
 
-import com.cn.hnust.pojo.User;
+import com.lyloou.pojo.User;
 import org.apache.ibatis.annotations.Delete;
 import org.apache.ibatis.annotations.Insert;
 import org.apache.ibatis.annotations.InsertProvider;

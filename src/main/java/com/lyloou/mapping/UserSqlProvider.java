@@ -1,6 +1,6 @@
-package com.cn.hnust.mapping;
+package com.lyloou.mapping;
 
-import com.cn.hnust.pojo.User;
+import com.lyloou.pojo.User;
 import org.apache.ibatis.jdbc.SQL;
 
 public class UserSqlProvider {

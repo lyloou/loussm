@@ -1,8 +1,8 @@
-package com.cn.hnust.serveice.impl;
+package com.lyloou.serveice.impl;
 
-import com.cn.hnust.mapping.UserMapper;
-import com.cn.hnust.pojo.User;
-import com.cn.hnust.serveice.IUserService;
+import com.lyloou.mapping.UserMapper;
+import com.lyloou.pojo.User;
+import com.lyloou.serveice.IUserService;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;
