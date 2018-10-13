@@ -1,0 +1,1 @@
+参考资料：[SSM框架——详细整合教程（Spring+SpringMVC+MyBatis） - 在路上 - CSDN博客](https://blog.csdn.net/zhshulin/article/details/37956105)
